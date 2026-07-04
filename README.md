@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There,%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Hi%20There,%20I'm%20Your%20Kishor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20UI%2FUX%20Designer%20%7C%20Creative%20Technologist&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yourusername?color=7C3AED&style=for-the-badge&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/yourusername?color=4C1D95&style=for-the-badge&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Oxter12a&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Oxter12a?color=7C3AED&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/Oxter12a?color=4C1D95&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
